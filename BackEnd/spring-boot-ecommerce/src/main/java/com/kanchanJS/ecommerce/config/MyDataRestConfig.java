@@ -1,11 +1,12 @@
-package com.luv2code.ecommerce.config;
+package com.kanchanJS.ecommerce.config;
 
-import com.luv2code.ecommerce.entity.Country;
-import com.luv2code.ecommerce.entity.Product;
-import com.luv2code.ecommerce.entity.ProductCategory;
+import com.kanchanJS.ecommerce.entity.Country;
+import com.kanchanJS.ecommerce.entity.Product;
+import com.kanchanJS.ecommerce.entity.ProductCategory;
+import com.kanchanJS.ecommerce.entity.State;
+
 import javax.persistence.metamodel.EntityType;
 
-import com.luv2code.ecommerce.entity.State;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;

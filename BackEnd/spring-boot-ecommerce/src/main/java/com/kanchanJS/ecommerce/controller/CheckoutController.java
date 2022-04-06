@@ -1,8 +1,8 @@
-package com.luv2code.ecommerce.controller;
+package com.kanchanJS.ecommerce.controller;
 
-import com.luv2code.ecommerce.dto.Purchase;
-import com.luv2code.ecommerce.dto.PurchaseResponse;
-import com.luv2code.ecommerce.service.CheckoutService;
+import com.kanchanJS.ecommerce.dto.Purchase;
+import com.kanchanJS.ecommerce.dto.PurchaseResponse;
+import com.kanchanJS.ecommerce.service.CheckoutService;
 import org.springframework.web.bind.annotation.*;
 
 @CrossOrigin("http://localhost:4200")

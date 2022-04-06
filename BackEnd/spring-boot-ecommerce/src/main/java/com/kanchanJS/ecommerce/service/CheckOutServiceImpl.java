@@ -1,11 +1,11 @@
-package com.luv2code.ecommerce.service;
+package com.kanchanJS.ecommerce.service;
 
-import com.luv2code.ecommerce.dao.CustomerRepository;
-import com.luv2code.ecommerce.dto.Purchase;
-import com.luv2code.ecommerce.dto.PurchaseResponse;
-import com.luv2code.ecommerce.entity.Customer;
-import com.luv2code.ecommerce.entity.Order;
-import com.luv2code.ecommerce.entity.OrderItem;
+import com.kanchanJS.ecommerce.dao.CustomerRepository;
+import com.kanchanJS.ecommerce.dto.Purchase;
+import com.kanchanJS.ecommerce.dto.PurchaseResponse;
+import com.kanchanJS.ecommerce.entity.Customer;
+import com.kanchanJS.ecommerce.entity.Order;
+import com.kanchanJS.ecommerce.entity.OrderItem;
 import org.springframework.stereotype.Service;
 
 import javax.transaction.Transactional;

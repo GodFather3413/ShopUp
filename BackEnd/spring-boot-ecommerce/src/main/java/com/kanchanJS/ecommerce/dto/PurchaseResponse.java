@@ -1,4 +1,4 @@
-package com.luv2code.ecommerce.dto;
+package com.kanchanJS.ecommerce.dto;
 
 import lombok.Data;
 

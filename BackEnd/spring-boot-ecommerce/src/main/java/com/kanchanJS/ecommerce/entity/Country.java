@@ -1,4 +1,4 @@
-package com.luv2code.ecommerce.entity;
+package com.kanchanJS.ecommerce.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Getter;
